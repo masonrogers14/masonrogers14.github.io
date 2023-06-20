@@ -2,15 +2,13 @@
 permalink: /publications/
 title: "Publications"
 last_updated_at: "{{ site.time | date: '%b %e, %Y' }}"
+author: "Mason Rogers"
 author_profile: true
 ---
 
 # Publications
 
 1. **Rogers, M.**, R. Ferrari, and L. Nadeau, 2023: Mid-depth Recipes. *J. Phys. Oceanogr.*, <https://doi.org/10.1175/JPO-D-22-0225.1>, in press. 
-
-
-test
 
 
 Updated {{ site.time | date: '%b %e, %Y' }}
