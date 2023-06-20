@@ -1,8 +1,8 @@
 ---
+layout: single
 permalink: /publications/
 title: "Publications"
 last_updated_at: "{{ site.time | date: '%b %e, %Y' }}"
-layout: single
 author_profile: true
 ---
 
