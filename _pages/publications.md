@@ -1,7 +1,7 @@
 ---
 permalink: /publications/
 title: "Publications"
-last_modified_at: {{ site.time | date: "%B %e, %Y" }}
+last_modified_at: {{ site.time | date: "%Y" }}
 ---
 
 # Publications
