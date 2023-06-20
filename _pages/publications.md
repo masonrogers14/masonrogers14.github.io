@@ -1,6 +1,7 @@
 ---
-layout: default
-author_profile: true
+permalink: /publications/
+title: "Publications"
+last_modified_at: {{ site.time | "%B %-d %Y" }}
 ---
 
 # Publications
