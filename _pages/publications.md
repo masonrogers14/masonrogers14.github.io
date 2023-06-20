@@ -2,7 +2,7 @@
 permalink: /publications/
 title: "Publications"
 last_updated_at: "{{ site.time | date: '%b %e, %Y' }}"
-author: "Mason Rogers"
+layout: single
 author_profile: true
 ---
 
