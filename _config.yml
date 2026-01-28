@@ -20,7 +20,7 @@ title                    : "Mason Rogers"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Mason Rogers"
-description              : "PhD candidate in physical oceanography, MIT-WHOI Joint Program"
+description              : "Postdoc in physical oceanography, Scripps Institution of Oceanography"
 url                      : https://masonrogers14.github.io
 baseurl                  : "/"
 repository               : "masonrogers14"
@@ -86,13 +86,13 @@ analytics:
 author:
   name             : "Mason Rogers"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD candidate in physical oceanography, MIT-WHOI Joint Program"
-  location         : "Cambridge, MA"
+  bio              : "Postdoc in physical oceanography, Scripps Institution of Oceanography"
+  location         : "San Diego, CA"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:masonr@mit.edu"
+      url: "mailto:masonr@ucsd.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/masonrogers14/
